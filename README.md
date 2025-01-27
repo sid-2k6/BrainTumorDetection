@@ -75,10 +75,7 @@ Optimizer: Adam
 🔹 Add real-time MRI scanning from video feeds
 
 🤝 Contributors
-Your Name – Developer & AI Model Trainer
-Other Team Members (if any)
-📜 License
-This project is open-source and available under the MIT License.
+HARISIDDARTH S – Developer & AI Model Trainer
 
 🎉 Thank You! Happy Coding! 🚀
 This README provides a clear, professional, and structured description of your project. You can directly add this to your GitHub repository under README.md. Let me know if you need any modifications! 😊
