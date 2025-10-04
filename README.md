@@ -41,7 +41,7 @@ The result is displayed on the web page.
 sh
 Copy
 Edit
-git clone https://github.com/YOUR_GITHUB_USERNAME/BrainTumorDetection.git
+git clone https://github.com/sid-2k6/BrainTumorDetection.git
 cd BrainTumorDetection
 🔹 Step 2: Install Dependencies
 sh
